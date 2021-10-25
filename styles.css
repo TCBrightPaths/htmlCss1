@@ -1,14 +1,22 @@
+* {
+    background-color: #9fd1c4;
+}
 h1 {
     
     text-align: center;
-}
+    font-size: 60px;
 
+}
+h2 {
+    font-size: 40px;
+}
 
 p {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+    
   }
 body {
     margin-top: 100px;
